@@ -1,16 +1,18 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# POdcast IAs Generativas em Bancos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Importância das IAs Generativas nas instituições financeiras 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa chatGPT para roteirizaçao 
+IA Generativa ElevenLabs para voz
+IA Generativa Leonardo IA para Criação da arte
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o ChatGPT para desenvolver roteiro e LeonardoAI para criar arte.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook de conteúdo interessante destinado para empregados e público interessado nas aplicabilidade das IAs Generativas 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
